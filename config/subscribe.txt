@@ -2,3 +2,10 @@
 # This is a list of subscription sources, with one subscription address per line
 https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/m3u/k9v6.m3u
 https://php.946985.filegear-sg.me/jackTV.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u
+https://live.zbds.top/tv/iptv6.txt
+https://live.zbds.top/tv/iptv4.txt
+https://m3u.ibert.me/txt/o_cn.txt
+https://m3u.ibert.me/txt/fmml_dv6.txt
+https://m3u.ibert.me/txt/j_iptv.txt
